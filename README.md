@@ -20,5 +20,5 @@ A Alô Garapa é subsidiária da Kalify Inc, uma empresa de desenvolvimento de s
 
 - Verifique as issues abertas, geralmente ali a gente reporta algum problema que não estamos conseguindo resolver.
 - Faça um fork do projeto para o seu computador, dessa maneira você poderá editar a vontade.
-- Faça um brench para a main ou uma versão alternativa e faça um Pull Request solicitando essa alteração.
+- Faça um branch para a main ou uma versão alternativa e faça um Pull Request solicitando essa alteração.
 - Se a alteração for eficaz para a nossa causa, nós aceitaremos e a sua contribuição já estará registrada no sistema.
